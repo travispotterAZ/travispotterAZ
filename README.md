@@ -1,6 +1,6 @@
 # Hi, I'm Travis
 
-I'm a Computer Science & Engineering student at the University of Arizona, working across the full stack — from designing pipelined processors in Verilog to building REST APIs in Spring Boot. I enjoy working close to the hardware just as much as I enjoy building software systems, which is a pretty rare combination and something I genuinely care about.
+I'm a Computer Science & Engineering student at the University of Arizona, working across the full stack — from designing pipelined processors in Verilog to building REST APIs in Spring Boot.
 
 I'm currently a junior and actively looking for **software engineering or embedded systems internships** for Summer 2026.
 
@@ -8,7 +8,7 @@ I'm currently a junior and actively looking for **software engineering or embedd
 
 ## What I'm Working With
 
-**Languages:** Java · Python · Verilog · SQL · C  
+**Languages:** Java · Python · Verilog · SQL · C++  
 **Frameworks & Tools:** Spring Boot · JPA/Hibernate · RabbitMQ · SQLite · Maven · Vivado · Git  
 **Areas:** Backend / REST APIs · Digital Logic & FPGA Design · Data Structures & Algorithms · Operating Systems · Database Systems
 
@@ -29,6 +29,6 @@ A SQLite-backed vinyl record library with user authentication, loan and purchase
 
 ## About Me
 
-When I'm not coding I'm usually outside — mountain biking, alpine skiing, or playing intramural sports. I'm drawn to problems that sit at the intersection of hardware and software, and I like building things that actually run on real hardware.
+When I'm not coding I'm usually outside — mountain biking, alpine skiing, or playing intramural sports. I'm drawn to problems that sit at the intersection of hardware and software.
 
-📫 Reach me on [LinkedIn](#) <!-- swap in your real LinkedIn URL -->
+📫 Reach me on [LinkedIn](https://ca.linkedin.com/in/travis-potter-495698204)
