@@ -29,6 +29,6 @@ A SQLite-backed vinyl record library with user authentication, loan and purchase
 
 ## About Me
 
-When I'm not coding I'm usually outside — mountain biking, alpine skiing, or playing intramural sports. I'm drawn to problems that sit at the intersection of hardware and software.
+When I'm not coding I'm usually outside — shooting photography, mountain biking, alpine skiing, or playing intramural sports. I'm drawn to problems that sit at the intersection of hardware and software.
 
 📫 Reach me on [LinkedIn](https://ca.linkedin.com/in/travis-potter-495698204)
