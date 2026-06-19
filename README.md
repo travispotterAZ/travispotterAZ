@@ -2,8 +2,6 @@
 
 I'm a Computer Science & Engineering student at the University of Arizona, working across the full stack — from designing pipelined processors in Verilog to building REST APIs in Spring Boot.
 
-I'm currently a junior and actively looking for **internships** for Summer 2026.
-
 ---
 
 ## What I'm Working With
